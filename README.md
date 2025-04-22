@@ -3,6 +3,77 @@
 ---
 
 ```markdown
+# Python Temelleri 🐍
+
+**Python Basics** (Python Temelleri) reposuna hoş geldiniz! Bu koleksiyon, Python programlamaya dair temel konuları kapsayan, sade ve düzenli Python örnek dosyalarını içermektedir.
+
+Python’a yeni başlayanlar veya bilgilerini tazelemek isteyenler için hazırlanmış bu repo, konuları doğrudan örnek kodlarla öğrenmenizi amaçlar.
+
+## 📁 Depo Yapısı
+
+Bu depo, Python konularına göre gruplanmış `.py` dosyalarını içerir. Her dosya, ilgili konunun temel mantığını sade ve anlaşılır bir şekilde örnekler üzerinden anlatır.
+
+### Kapsanan Konulardan Bazıları:
+
+- Değişkenler ve Veri Tipleri  
+- Kontrol Yapıları (`if`, `else`, `elif`)  
+- Döngüler (`for`, `while`)  
+- Fonksiyonlar ve Parametreler  
+- Listeler, Demetler (Tuples), Kümeler ve Sözlükler (Dictionaries)  
+- Dosya İşlemleri  
+- Hata Yönetimi (Exception Handling)  
+- Nesne Tabanlı Programlama (OOP)  
+- Modüller ve İçe Aktarma (Imports)  
+- Lambda Fonksiyonları ve List Comprehension  
+- ve daha fazlası...
+
+## 🚀 Nasıl Kullanılır?
+
+1. Depoyu klonlayın:
+
+```bash
+git clone https://github.com/toygarpar/PythonBasics.git
+```
+
+2. Proje klasörüne geçin:
+
+```bash
+cd PythonBasics
+```
+
+3. Herhangi bir `.py` dosyasını favori kod editörünüzde açın ve Python ile çalıştırın:
+
+```bash
+python3 ornek_dosya.py
+```
+
+> Bilgisayarınızda Python yüklü olmalıdır. [python.org](https://www.python.org/) adresinden indirebilirsiniz.
+
+## 🎯 Amaç
+
+Bu depo tamamen eğitim amaçlıdır. Kullanım alanları şunlar olabilir:
+- Python öğrenmek ve pratik yapmak
+- Giriş seviyesinde Python konuları  
+- Hızlıca Python sözdizimi veya kavramları kontrol etmek
+
+
+
+---
+
+İyi çalışmalar ve bol kodlamalar! 👨‍💻👩‍💻  
+```
+
+---
+
+
+
+
+---
+---
+
+---
+
+```markdown
 # Python Basics 🐍
 
 Welcome to the **Python Basics** repository! This collection contains simple, well-organized Python script examples that cover a wide range of foundational topics in Python programming.
