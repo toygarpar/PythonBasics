@@ -9,9 +9,9 @@
 
 Python’a yeni başlayanlar veya bilgilerini tazelemek isteyenler için hazırlanmış bu repo, konuları doğrudan örnek kodlarla öğrenmenizi amaçlar.
 
-## 📁 Depo Yapısı
+## 📁 Repo Yapısı
 
-Bu depo, Python konularına göre gruplanmış `.py` dosyalarını içerir. Her dosya, ilgili konunun temel mantığını sade ve anlaşılır bir şekilde örnekler üzerinden anlatır.
+Bu repo, Python konularına göre gruplanmış `.py` dosyalarını içerir. Her dosya, ilgili konunun temel mantığını sade ve anlaşılır bir şekilde örnekler üzerinden anlatır.
 
 ### Kapsanan Konulardan Bazıları:
 
