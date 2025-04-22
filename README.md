@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 # Python Temelleri 🐍
 
 **Python Basics** (Python Temelleri) reposuna hoş geldiniz! Bu koleksiyon, Python programlamaya dair temel konuları kapsayan, sade ve düzenli Python örnek dosyalarını içermektedir.
@@ -61,19 +61,17 @@ Bu depo tamamen eğitim amaçlıdır. Kullanım alanları şunlar olabilir:
 ---
 
 İyi çalışmalar ve bol kodlamalar! 👨‍💻👩‍💻  
-```
+
+
+---
+
+
+
+
 
 ---
 
 
-
-
----
----
-
----
-
-```markdown
 # Python Basics 🐍
 
 Welcome to the **Python Basics** repository! This collection contains simple, well-organized Python script examples that cover a wide range of foundational topics in Python programming.
@@ -132,7 +130,7 @@ The purpose of this repository is educational. It can be used for:
 ---
 
 Happy coding! 👨‍💻👩‍💻  
-```
+
 
 ---
 
